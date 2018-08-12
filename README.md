@@ -1,4 +1,5 @@
 Unified device configuration for Lenovo ZUK Z2/Z2 Plus
+Bring up from [ZUK-Devs' repository](https://github.com/zuk-devs/android_device_zuk_z2_plus)
 ==============
 
 Lenovo ZUK Z2/Z2 Plus (codenamed _"z2_plus"_) are high-end smartphones from Lenovo.
